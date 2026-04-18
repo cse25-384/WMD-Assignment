@@ -1,0 +1,30 @@
+footer {
+  width: 100%;
+  background-color: #000205;   /* light gray background */
+  color: #f0eded;                 /* dark text for readability */
+  text-align: center;          /* center the content */
+  padding: 15px 0;             /* space above and below */
+  font-size: 14px;             /* standard text size */
+  border-top: 1px solid #ccc;  /* subtle separation line */
+}
+
+footer a {
+  color: #333;                 /* match text color */
+  text-decoration: none;       /* remove underline */
+  margin: 0 10px;              /* spacing between links */
+}
+
+footer a:hover {
+  text-decoration: underline;  /* highlight on hover */
+}
+
+nav {
+  background-color: rgb(40, 40, 49);
+  color: rgb(237, 235, 239); /* ensures text is visible */
+  padding: 10px;
+}
+
+
+
+
+
